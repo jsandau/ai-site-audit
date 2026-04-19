@@ -187,6 +187,6 @@ This project demonstrates:
 ## Author   
 Jacob Sandau    
 University of Minnesota     
-📬 LinkedIn: [https://www.linkedin.com/in/jacob-sandau-204743233/]    
+[LinkedIn](https://www.linkedin.com/in/jacob-sandau-204743233/)    
 [Portfolio](https://jsandau.github.io/portfolio/)    
 📧 Email: jsandau@sandau.com    
