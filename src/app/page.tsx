@@ -45,7 +45,7 @@ export default function HomePage() {
     <main className="min-h-screen bg-white flex flex-col">
       {/* Nav */}
       <nav className="px-8 py-5 flex items-center justify-between border-b border-gray-100">
-        <span className="font-semibold text-gray-900 tracking-tight">Levvate</span>
+        <span className="font-semibold text-gray-900 tracking-tight">SiteIQ</span>
         <span className="text-sm text-gray-500">Free Site Assessment</span>
       </nav>
 
