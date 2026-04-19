@@ -188,5 +188,5 @@ This project demonstrates:
 Jacob Sandau    
 University of Minnesota     
 📬 LinkedIn: [https://www.linkedin.com/in/jacob-sandau-204743233/]    
-Portfolio: [https://www.linkedin.com/in/jacob-sandau-204743233/](https://jsandau.github.io/portfolio/)    
+[Portfolio](https://jsandau.github.io/portfolio/)    
 📧 Email: jsandau@sandau.com    
