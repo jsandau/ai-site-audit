@@ -1,6 +1,7 @@
 # SiteIQ — AI Website Audit & Lead Funnel System
 
 > Automated website audits that convert visitors into qualified leads and sync directly with a CRM pipeline.
+> Designed and implemented a full-stack AI audit system using Claude-assisted development for prompt engineering and frontend/backend iteration
 
 **Live demo:** [Here](https://ai-site-audit-production.up.railway.app/) &nbsp;|&nbsp; **Built with:** Next.js · Groq (LLaMA 3.3) · PostgreSQL · HubSpot API
 
