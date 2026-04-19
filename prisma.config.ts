@@ -1,7 +1,10 @@
 import { defineConfig } from 'prisma/config'
+import * as dotenv from 'dotenv'
+
+dotenv.config({ path: '.env.local' })
 
 export default defineConfig({
   datasource: {
-    url: "postgresql://postgres:postgres@localhost:5432/audit_tool",
+    url: process.env.DATABASE_URL!,
   },
 })
