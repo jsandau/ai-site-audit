@@ -126,6 +126,7 @@ The prompt explicitly demands raw JSON with no markdown or preamble. The respons
 | CRM | HubSpot REST API v3 |
 | Language | TypeScript throughout |
 
+
 ---
 
 ## Running Locally
@@ -135,6 +136,8 @@ The prompt explicitly demands raw JSON with no markdown or preamble. The respons
 - PostgreSQL running locally
 - [Groq API key](https://console.groq.com) (free)
 - HubSpot API key (optional — app works without it)
+- Neon account (free) for cloud Postgres
+- Railway account (free tier) for deployment
 
 ### Setup
 
@@ -180,3 +183,10 @@ This project demonstrates:
 - Designing for real-world failure modes — scrape blocks, slow APIs, malformed AI output
 - Making technical decisions based on business impact, not just technical preference
 - Shipping a system a sales team could actually use tomorrow
+
+## Author   
+Jacob Sandau    
+University of Minnesota    
+📬 LinkedIn: [https://www.linkedin.com/in/jacob-sandau-204743233/]
+Portfolio: [https://www.linkedin.com/in/jacob-sandau-204743233/](https://jsandau.github.io/portfolio/)
+📧 Email: jsandau@sandau.com
