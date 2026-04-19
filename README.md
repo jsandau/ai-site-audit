@@ -139,7 +139,7 @@ The prompt explicitly demands raw JSON with no markdown or preamble. The respons
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/site-iq.git
+git clone https://github.com/jsandau/site-iq.git
 cd site-iq
 npm install
 ```
