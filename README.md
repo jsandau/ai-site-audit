@@ -2,7 +2,7 @@
 
 > Automated website audits that convert visitors into qualified leads and sync directly with a CRM pipeline.
 
-**Live demo:** [your-deployment-url.vercel.app](#) &nbsp;|&nbsp; **Built with:** Next.js · Groq (LLaMA 3.3) · PostgreSQL · HubSpot API
+**Live demo:** [https://ai-site-audit-production.up.railway.app/](#) &nbsp;|&nbsp; **Built with:** Next.js · Groq (LLaMA 3.3) · PostgreSQL · HubSpot API
 
 ---
 
