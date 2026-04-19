@@ -1,0 +1,29 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Audit {
+  id               String   @id @default(cuid())
+  url              String
+  status           String   @default("pending")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+  pageTitle        String?
+  metaDesc         String?
+  rawHtml          String?  @db.Text
+  auditData        Json?
+  leadEmail        String?
+  leadName         String?
+  leadCompany      String?
+  unlockedAt       DateTime?
+  hubspotContactId String?
+  hubspotDealId    String?
+  pdfUrl           String?
+
+  @@index([url])
+  @@index([leadEmail])
+}
