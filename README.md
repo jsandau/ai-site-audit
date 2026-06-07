@@ -1,4 +1,4 @@
-# SiteIQ — AI Website Audit & Lead Funnel System
+# SiteIQ | AI Website Audit & Lead Funnel System
 
 > Automated website audits that convert visitors into qualified leads and sync directly with a CRM pipeline.
 > 
